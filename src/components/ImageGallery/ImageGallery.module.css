@@ -1,0 +1,14 @@
+.photoList {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  gap: 17px;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 20px 0;
+  padding-inline-start: 0;
+}
+
+.photo {
+  width: 24%;
+}
